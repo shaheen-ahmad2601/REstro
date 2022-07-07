@@ -1,0 +1,22 @@
+{
+  "get-restaurants": [
+    {
+      "src": "https://media.istockphoto.com/photos/foods-high-in-zinc-picture-id1289940519?k=20&m=1289940519&s=612x612&w=0&h=InoEP6rCE5Db9RYsjcv9P5CAbDydH9RxT_S34DkfJ9A=",
+      "name": "Delhi",
+      "id": 12,
+      "foodie": ["State", "India", "Burger", "More"],
+      "costForTwo": 400,
+      "minOrder": 80,
+      "deliveryTime": 45,
+      "rating": 1.1,
+      "votes": 2455,
+      "reviews": 54459,
+      "payment_methods": {
+        "card": true,
+        "cash": false
+      }
+    }
+  ]
+}
+  
+ 
